@@ -1,0 +1,55 @@
+.myDiv{
+   color: whitesmoke;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    padding: 80px;
+    
+    
+    
+
+}
+
+.fStyle{
+    color: #ffffff;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 0;
+
+
+}
+body{
+    
+    background-image: url('air.jpg');
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-size: cover;
+
+}
+
+.navbar{
+  overflow: hidden;
+  display: inline;
+  background-color: #0093AB;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a :hover{
+    color: black;
+}
+
+
+
+
